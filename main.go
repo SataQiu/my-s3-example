@@ -22,8 +22,8 @@ var (
 	endPoint = "http://127.0.0.1:8333" // seaweedfs S3 服务的地址
 	objectID = "a.jpg"
 
-	//endPoint = "http://127.0.0.1:8099" // S3 Proxy 服务的地址
-	//objectID = "b.jpg"
+	// endPoint = "http://localhost:8099" // S3 Proxy 服务的地址
+	// objectID = "b.jpg"
 )
 
 func init() {
